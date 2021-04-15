@@ -24,4 +24,4 @@ const logTodo = (id: number, title: string, completed: boolean) => {
     Has a title of: ${title}
     Is is finished? ${completed}
   `);
-}
+};
