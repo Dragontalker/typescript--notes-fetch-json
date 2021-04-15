@@ -1,0 +1,1 @@
+# typscript-fetch-json
