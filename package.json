@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Dragontalker/typescript-fetch-json/issues"
   },
-  "homepage": "https://github.com/Dragontalker/typescript-fetch-json#readme"
+  "homepage": "https://github.com/Dragontalker/typescript-fetch-json#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
